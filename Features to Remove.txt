@@ -1,0 +1,20 @@
+Features to Remove
+
+
+Student_ID
+Family_Size
+Student_Loan_Amount
+Major
+Graduation_Age
+Graduation_Rate
+Retention_Rate
+Marital_Status
+
+
+
+
+Student_ID, Family_Size, Student_Loan_Amount, Major, Graduation_Age, Graduation_Rate, Retention_Rate, Marital_Status
+
+
+
+"Student_ID", "Family_Size", "Student_Loan_Amount", "Major", "Graduation_Age", "Graduation_Rate", "Retention_Rate", "Marital_Status"
