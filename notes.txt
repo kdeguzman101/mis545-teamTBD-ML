@@ -1,2 +1,0 @@
-Models:
-logistic regression, decision trees, support vector machines, random forest, Naive Bayes, and k-nearest neighbors
