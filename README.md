@@ -1,0 +1,1 @@
+This is a repository we will submit for UA MIS545 - Data Mining for Business Intelligence. Our task is to compare AI/ML machine learning models to determine if we can predict whether a student is on track to graduate. We will accomplish this task using a dataset that contains student academic performance data and student demographic data.
